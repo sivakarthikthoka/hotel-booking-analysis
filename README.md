@@ -26,3 +26,64 @@ lat, lon – Geographical location
 
 ## Step-by-Step Process
 
+Data Loading
+
+Load the dataset (hotels.csv) using Pandas.
+
+Data Inspection
+
+View dataset shape, first few rows, and column details.
+
+Check for missing values (none found in this dataset).
+
+Data Cleaning
+
+Ensure correct data types.
+
+Standardize categorical values (if needed).
+
+Exploratory Data Analysis (EDA)
+
+Summary statistics for numerical and categorical columns.
+
+Visualizations:
+
+Bookings by hotel type
+
+Distribution of star ratings
+
+Average rating (cleanliness, staff, etc.) comparisons
+
+Location-based analysis (cities, countries)
+
+Feature Engineering (Optional)
+
+Compute overall rating score (average of different base ratings).
+
+Extract geographical or location-based insights.
+
+Insights
+
+Identify top-performing hotels.
+
+Highlight cities/countries with highest ratings.
+
+Detect strengths/weaknesses (e.g., cleanliness vs. value for money).
+
+Modeling (Optional Extension)
+
+Predict hotel ratings or price trends using regression/classification models.
+
+📊 Tools & Libraries
+
+Python – Main language
+
+Pandas – Data analysis
+
+NumPy – Numerical computations
+
+Matplotlib – Data visualization
+
+Jupyter Notebook / VS Code – Development environment
+
+
