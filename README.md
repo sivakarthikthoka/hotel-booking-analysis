@@ -24,7 +24,7 @@ cleanliness_base, comfort_base, facilities_base, location_base, staff_base, valu
 
 lat, lon – Geographical location
 
-# Step-by-Step Process
+## Step-by-Step Process
 1)Data Loading
 Load the dataset (hotels.csv) using Pandas.
 
