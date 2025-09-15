@@ -25,4 +25,4 @@ cleanliness_base, comfort_base, facilities_base, location_base, staff_base, valu
 lat, lon – Geographical location
 
 ## Step-by-Step Process
-git clone https://github.com/your-username/hotel-booking-analysis.git
+
