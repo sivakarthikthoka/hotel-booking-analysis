@@ -25,34 +25,4 @@ cleanliness_base, comfort_base, facilities_base, location_base, staff_base, valu
 lat, lon – Geographical location
 
 ## Step-by-Step Process
-1)Data Loading
-Load the dataset (hotels.csv) using Pandas.
-
-2) Data Inspection
-View dataset shape, first few rows, and column details.
-Check for missing values (none found in this dataset).
-
-3) Data Cleaning
-Ensure correct data types.
-Standardize categorical values (if needed).
-
-4) Exploratory Data Analysis (EDA)
-Summary statistics for numerical and categorical columns.
-
-5) Visualizations:
-Bookings by hotel typeg
-Distribution of star ratings
-Average rating (cleanliness, staff, etc.) comparisons
-Location-based analysis (cities, countries)
-
-6) Feature Engineering (Optional)
-Compute overall rating score (average of different base ratings).
-Extract geographical or location-based insights.
-
-7) Insights
-Identify top-performing hotels.
-Highlight cities/countries with highest ratings.
-Detect strengths/weaknesses (e.g., cleanliness vs. value for money).
-
-8) Modeling (Optional Extension)
-Predict hotel ratings or price trends using regression/classification models.
+git clone https://github.com/your-username/hotel-booking-analysis.git
