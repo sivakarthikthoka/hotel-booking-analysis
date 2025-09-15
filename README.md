@@ -40,7 +40,7 @@ Standardize categorical values (if needed).
 Summary statistics for numerical and categorical columns.
 
 5) Visualizations:
-Bookings by hotel type
+Bookings by hotel typeg
 Distribution of star ratings
 Average rating (cleanliness, staff, etc.) comparisons
 Location-based analysis (cities, countries)
